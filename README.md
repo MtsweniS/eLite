@@ -1,2 +1,2 @@
-# eLite
-InSearch
+
+mkdir -p .github/workflows/
